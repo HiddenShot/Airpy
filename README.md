@@ -19,7 +19,7 @@ Caracteristicas:
 --------------------
 
 Instrucciones:
-+ git clone https://github.com/RMSociety/Airpy.git
++ git clone https://github.com/HiddenShot/Airpy.git
 + cd Airpy
 + python3 airpy.py
 
